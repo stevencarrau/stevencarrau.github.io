@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Steven Carr"
-  avatar           : "headshot.PNG"
+  avatar           : "headshot.jpg"
   bio              : "Research scientist at University of Texas at Austin, specializing in reinforcement and machine learning for assured autonomy"
   location         : #"Austin, Texas"
   employer         : #

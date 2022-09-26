@@ -2,9 +2,13 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Projects"
+    url: /projects/
 
   - title: "Resume"
-    url: /files/Steve_Carr_Resume.pdf    
+    url: /files/Steve_Carr_Resume.pdf
+       
 
   #- title: "Teaching"
   #  url: /teaching/    

@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<!-- 
 ---
 **[Verifiable and Compositional Reinforcement Learning Systems](../_publications/2021_verifiable_and_compositional_rl.md)**
 
@@ -33,3 +33,4 @@ We propose a framework for verifiable and compositional reinforcement learning (
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+ -->

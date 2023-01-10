@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Welcome! I'm a recent PhD graudate studying Aerospace Engineering at the University of Texas at Austin. As a researcher I am a member of Ufuk Topcu's [Autonomous Systems Group](https://oden.utexas.edu/research/centers-and-groups/autonomous-systems-group/).
+Welcome! I'm a postdocorate fellow at the Oden Institute for Computational Sciences, which is located at the University of Texas at Austin. As a researcher I am a member of Ufuk Topcu's [Autonomous Systems Group](https://oden.utexas.edu/research/centers-and-groups/autonomous-systems-group/). In 2022, I graduated with my PhD graudate in Aerospace Engineering at the University of Texas at Austin specializing in decision-making for *Task-Aware Planning and Learning in Partially Observable Environments*. 
 Prior to my graduate studies I received a Bachelors of Engineering/Bachelors of Science in aerospace and mathematics from the University of Sydney. 
 
 **Research Interests**
